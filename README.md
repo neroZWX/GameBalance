@@ -7,3 +7,5 @@
 laser bullet.  
 #### 4. black enemy can take more damage from Laser bullets, less damage from rifle bullets white enemy can take more dmage from rifle bullets, less damage from laser bullets.  
 #### 5. If you have less gold coins than you need to pay for the bullets, you will not be able to fire.
+![ScreenShotRifle](https://github.com/neroZWX/GameBalance/blob/master/Rifle.PNG)  
+![ScreenShotLaser](https://github.com/neroZWX/GameBalance/blob/master/laser.PNG)
