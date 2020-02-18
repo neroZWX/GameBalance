@@ -8,3 +8,4 @@
 #### 5. If you have less gold coins than you need to pay for the bullets, you will not be able to fire.
 ![ScreenShotRifle](https://github.com/neroZWX/GameBalance/blob/master/Rifle.PNG)  
 ![ScreenShotLaser](https://github.com/neroZWX/GameBalance/blob/master/laser.PNG)
+![ScreenShotCostCurve](https://github.com/neroZWX/GameBalance/blob/master/%E6%88%90%E6%9C%AC%E6%9B%B2%E7%BA%BF.PNG)
